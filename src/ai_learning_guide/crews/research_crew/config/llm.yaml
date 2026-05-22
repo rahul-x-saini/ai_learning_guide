@@ -1,0 +1,7 @@
+gemini_flash:
+  provider: google
+  model: gemini-1.5-flash
+
+gemini_pro:
+  provider: google
+  model: gemini-2.5-pro
